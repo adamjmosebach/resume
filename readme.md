@@ -1,0 +1,1 @@
+This is a rudementary resume for Adam Mosebach as of 7/20/20
