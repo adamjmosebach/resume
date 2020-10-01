@@ -1,1 +1,1 @@
-This is a rudementary resume for Adam Mosebach as of 7/20/20
+Please find my resumé above.  Thanks for visiting! -Adam
