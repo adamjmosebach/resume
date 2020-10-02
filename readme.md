@@ -1,1 +1,1 @@
-Please find my resumé above.  Thanks for visiting! -Adam 
+Please find my resumé above.  Thanks for visiting!  ~Adam 
