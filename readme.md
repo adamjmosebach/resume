@@ -1,6 +1,8 @@
 Please find my formatted resumé above.  Thanks for visiting!  ~Adam 
 
-# Adam Mosebach  ->  Full Stack Web Developer
+# Adam Mosebach
+## Full Stack Web Developer
+## adam.mosebach.dev@gmail.com
 
 
 ## Professional Summary
@@ -43,10 +45,33 @@ Peer review provided alternative solutions to problems
 
 ## Education
 
-### Certificate of Completion  
-General Assembly
+### General Assembly  
+Certificate of Completion
 New York, NY
 
+### New York University
 Bachelor of Fine Arts 
 - minor in Computer Applications
-NYU
+New York, NY
+
+
+## Technical Skills
+
+JAVASCRIPT
+REACT
+CSS
+HTML
+GIT
+EXPRESS
+NODE.JS
+MONGO DB
+MONGOOSE
+JSON/AJAX
+RUBY
+RUBY ON RAILS
+POSTGRESQL
+COMMAND LINE
+RESTful APIs
+RESPONSIVE DESIGN
+
+
