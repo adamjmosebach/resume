@@ -68,10 +68,10 @@ Express /
 Node.js / 
 MongoDB / 
 Mongoose / 
-JSON/AJAX / 
+JSON / AJAX / 
+PostgreSQL / 
 Ruby / 
 Ruby on Rails / 
-PostgreSQL / 
 Command Line / 
 RESTful APIs / 
 Responsive Design
