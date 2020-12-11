@@ -9,7 +9,6 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 ## Related Experience
 
-
 ### Software Engineering Immersive Fellow
 #### General Assembly | New York | 2020
 
@@ -17,7 +16,6 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 * Worked on solo projects as well as in teams, dominated by a creative and collaborative atmosphere
 * Daily morning stand-ups with either your team or supervising lead
 Peer review provided alternative solutions to problems
-
 
 ### Morgan Stanley
 #### Programmer | New York | 2006-2007
@@ -27,8 +25,8 @@ Peer review provided alternative solutions to problems
 * Provided customer service to large firms when further action was needed on client side
 * Built a series of training videos to help incoming colleagues perform and onboard efficiently
 
-## Other Work
 
+## Other Work
 
 ### AJ Karaoke
 #### Founder, Owner, Operator | 2014-Present
@@ -37,8 +35,18 @@ Peer review provided alternative solutions to problems
 * Used Virtual DJ program to implement songs and project lyrics to screen
 * Consistently updated the online catalog using a database and elementary php
 
-
 ### Professional Actor
 #### Various Locations | 2007-2019
 
 * Actor (and sometimes assistant stage manager) in various theaters across America, including a national tour and an international tour
+
+
+## Education
+
+### Certificate of Completion  
+General Assembly
+New York, NY
+
+Bachelor of Fine Arts 
+- minor in Computer Applications
+NYU
