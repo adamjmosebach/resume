@@ -46,13 +46,11 @@ Peer review provided alternative solutions to problems
 ## Education
 
 ### General Assembly  
-Certificate of Completion
-<br/>New York, NY
+* Certificate of Completion
 
 ### New York University
-Bachelor of Fine Arts 
-- minor in Computer Applications
-<br/>New York, NY
+* Bachelor of Fine Arts 
+    * minor in Computer Applications
 
 
 ## Technical Skills
