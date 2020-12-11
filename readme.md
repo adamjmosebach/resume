@@ -1,9 +1,9 @@
 Please find my formatted resumé above.  Thanks for visiting!  ~Adam 
 
 # Adam Mosebach
-### * Full Stack Web Developer
-### * adam.mosebach.dev@gmail.com
-### * LinkedIn/in/adammosebach
+* Full Stack Web Developer
+* adam.mosebach.dev@gmail.com
+* LinkedIn/in/adammosebach
 
 
 ## Professional Summary
