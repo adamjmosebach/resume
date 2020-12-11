@@ -62,17 +62,17 @@ New York, NY
 JavaScript / 
 React / 
 CSS / 
-HTML
-GIT
-EXPRESS
-NODE.JS
-MONGO DB
-MONGOOSE
-JSON/AJAX
-RUBY
-RUBY ON RAILS
-PostgreSQL
-COMMAND LINE
-RESTful APIs
-RESPONSIVE DESIGN
+HTML /
+Git /
+Express / 
+Node.js / 
+MongoDB / 
+Mongoose / 
+JSON/AJAX / 
+Ruby / 
+Ruby on Rails / 
+PostgreSQL / 
+Command Line / 
+RESTful APIs / 
+Responsive Design
 
