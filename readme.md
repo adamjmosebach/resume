@@ -1,10 +1,10 @@
 Please find my formatted resumé above.  Thanks for visiting!  ~Adam 
 
-# Adam Mosebach
+# Adam Mosebach (www.AdamMosebach.dev)
 * Full Stack Web Developer
 * adam.mosebach.dev@gmail.com
-* LinkedIn/in/adammosebach
-* www.AdamMosebach.dev
+* linkedin.com/in/adammosebach/
+
 
 
 ## Professional Summary
@@ -71,9 +71,8 @@ MONGOOSE
 JSON/AJAX
 RUBY
 RUBY ON RAILS
-POSTGRESQL
+PostgreSQL
 COMMAND LINE
 RESTful APIs
 RESPONSIVE DESIGN
-
 
