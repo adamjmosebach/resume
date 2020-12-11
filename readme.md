@@ -1,5 +1,3 @@
-Please find my formatted resumé above.  Thanks for visiting!  ~Adam 
-
 # Adam Mosebach
 * Full Stack Web Developer
 * Email: adam.mosebach.dev@gmail.com
