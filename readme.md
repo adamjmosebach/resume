@@ -1,7 +1,7 @@
 # Adam Mosebach
 * Full Stack Web Developer
 * Email: adam.mosebach.dev@gmail.com
-* LinkedIn: www.Linkedin.com/in/adammosebach/
+* LinkedIn: www.linkedin.com/in/adammosebach/
 * Portfolio: www.AdamMosebach.dev
 
 
