@@ -11,8 +11,8 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 ## Related Experience
 
-### Software Engineering Immersive Fellow
-#### General Assembly | New York | 2020
+### General Assembly
+#### Software Engineering Immersive Fellow | New York | 2020
 
 * Built and deployed projects with a React front-end and a MongoDB or Rails backend
 * Worked on solo projects as well as in teams, dominated by a creative and collaborative atmosphere
