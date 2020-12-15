@@ -11,16 +11,26 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 ## Related Experience
 
-### General Assembly
-#### Software Engineering Immersive Fellow | New York | 2020
+
+### Web Developer
+#### Studio 27 | 2020
+
+* Designed and built a site for a wedding company to showcase their Dilusso Designs for photo album covers
+* Each frame can be customized with the couple’s name, album color, and font size
+* Font size can be increased or decreased all at once or per specific frame
+
+
+### Software Engineering Immersive Fellow
+#### General Assembly | 2020
 
 * Built and deployed projects with a React front-end and a MongoDB or Rails backend
 * Worked on solo projects as well as in teams, dominated by a creative and collaborative atmosphere
 * Daily morning stand-ups with either your team or supervising lead
 Peer review provided alternative solutions to problems
 
-### Morgan Stanley
-#### Programmer | New York | 2006-2007
+
+### Developer
+#### Morgan Stanley | 2006-2007
 
 * Wrote automated processes for incoming trade records to be ingested and analyzed
 * Provided error reporting for both the client and Morgan Stanley
@@ -29,13 +39,6 @@ Peer review provided alternative solutions to problems
 
 
 ## Other Work
-
-### AJ Karaoke
-#### Founder, Owner, Operator | 2014-Present
-
-* Combined many machines to create a full setup for audio and visual technology
-* Used Virtual DJ program to implement songs and project lyrics to screen
-* Consistently updated the online catalog using a database and elementary php
 
 ### Professional Actor
 #### Various Locations | 2007-2019
@@ -71,4 +74,3 @@ Ruby on Rails /
 Command Line / 
 RESTful APIs / 
 Responsive Design
-
