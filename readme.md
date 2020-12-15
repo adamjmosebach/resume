@@ -18,6 +18,8 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 * Each frame can be customized with the couple’s name, album color, and font size
 * Font size can be increased or decreased all at once or per specific frame
 
+<br/>
+
 ### Software Engineering Immersive Fellow
 #### General Assembly | 2020
 
@@ -25,6 +27,8 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 * Worked on solo projects as well as in teams, dominated by a creative and collaborative atmosphere
 * Daily morning stand-ups with either your team or supervising lead
 Peer review provided alternative solutions to problems
+
+<br/>
 
 ### Developer
 #### Morgan Stanley | 2006-2007
