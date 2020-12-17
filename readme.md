@@ -12,8 +12,8 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 ### TenForward - React / Ruby on Rails
 * An immersive space for Star Trek fans to pose thoughts, post memes, and start conversations about the franchise we so love
-* Your Starfleet Rank increases the more posts you create  
-[Site](https://tenforward.netlify.app/) | [Git](https://github.com/adamjmosebach/TenForward)
+* Your Starfleet Rank increases the more posts you create
+* [Site](https://tenforward.netlify.app/) | [Git](https://github.com/adamjmosebach/TenForward)
 
 ### The Door - MongoDB / Express / React
 * Myself and three other devs worked with a UX team to bring their design to life
