@@ -8,9 +8,25 @@
 ## Professional Summary
 I am a developer with a passion for thinking outside the box. I believe there are many solutions to achieving a goal and love finding the best one.  I am a fun-loving but focused person who finds fulfillment in completing a task. Efficiency and user experience fuel my logical approach to crafting the ideal product.
 
+## Projects
+
+### TenForward - React / Ruby on Rails
+* An immersive space for Star Trek fans to pose thoughts, post memes, and start conversations about the franchise we so love
+* Your Starfleet Rank increases the more posts you create
+[Site](https://tenforward.netlify.app/) | [Git](https://github.com/adamjmosebach/TenForward)
+
+### The Door - MongoDB / Express / React
+* Myself and three other devs worked with a UX team to bring their design to life
+* Live links include "Get Involved" tab and "Volunteer" option from its dropdown
+
+### Vendor-Connector - React / Airtable
+* A site to connect people planning weddings with people who have already used said perspective vendors
+
+### Pokédex
+* Handy for looking up Pokémon and who they are best and worst against in battle
+
 
 ## Related Experience
-
 
 ### Web Developer
 #### Studio 27 | 2020
