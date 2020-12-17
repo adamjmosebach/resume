@@ -32,7 +32,7 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 ## Related Experience
 
 ### Web Developer
-#### Studio 27 | 2020
+#### *Studio 27 | 2020*
 
 * Designed and built a site for a wedding company to showcase their Dilusso Designs for photo album covers
 * Each frame can be customized with the couple’s name, album color, and font size
