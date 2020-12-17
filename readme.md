@@ -22,9 +22,11 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 ### Vendor-Connector - React / Airtable
 * A site to connect people planning weddings with people who have already used said perspective vendors
+* [Site](https://vendor-connector.netlify.app/) | [Git](https://github.com/adamjmosebach/wedding-planning-app)
 
 ### Pokédex
 * Handy for looking up Pokémon and who they are best and worst against in battle
+* [Site](https://adamjmosebach.github.io/pokedex/) | [Git](https://github.com/adamjmosebach/pokedex)
 
 
 ## Related Experience
