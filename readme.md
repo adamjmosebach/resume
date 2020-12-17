@@ -40,7 +40,7 @@ I am a developer with a passion for thinking outside the box. I believe there ar
 
 
 ### Software Engineering Immersive Fellow
-#### General Assembly | 2020
+#### *General Assembly | 2020*
 
 * Built and deployed projects with a React front-end and a MongoDB or Rails backend
 * Worked on solo projects as well as in teams, dominated by a creative and collaborative atmosphere
@@ -49,7 +49,7 @@ Peer review provided alternative solutions to problems
 
 
 ### Developer
-#### Morgan Stanley | 2006-2007
+#### *Morgan Stanley | 2006-2007*
 
 * Wrote automated processes for incoming trade records to be ingested and analyzed
 * Provided error reporting for both the client and Morgan Stanley
@@ -60,7 +60,7 @@ Peer review provided alternative solutions to problems
 ## Other Work
 
 ### Professional Actor
-#### Various Locations | 2007-2019
+#### *Various Locations | 2007-2019*
 
 * Actor (and sometimes assistant stage manager) in various theaters across America, including a national tour and an international tour
 
