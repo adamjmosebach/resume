@@ -84,6 +84,9 @@ My simple goal is to work with amazing people to create amazing things. I am a c
 
 JavaScript /
 React /
+Redux /
+Jest /
+C /
 CSS /
 HTML /
 Git /
